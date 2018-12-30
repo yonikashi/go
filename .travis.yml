@@ -8,8 +8,8 @@ addons:
 - postgresql: '9.4'
 - sonarcloud:
     organization: "yonikashi-github" # the key of the org you chose at step #3
-    token:
-      secure: V8oHshKgpiFWfZ/5KWYISlGl1BXxLVLxp7PPburn/miamSyLfIEhNBJh6TnJnLWBGRwmPzkOWjox5aXANmd6n208gGBiQ9M+FDspHy+2WxI+JvkKpiU1stqNxBNldZGnasMgfUy7Mz3tJpfU6hpg6ioTpdOd3LRXvL5+oCaOlZlWgeSyTgtJyaQAUztisN9lXD6v5x09+NM21Jf3MAyy1m9Xggec7p7CJ$      
+#    token:
+#      secure: V8oHshKgpiFWfZ/5KWYISlGl1BXxLVLxp7PPburn/miamSyLfIEhNBJh6TnJnLWBGRwmPzkOWjox5aXANmd6n208gGBiQ9M+FDspHy+2WxI+JvkKpiU1stqNxBNldZGnasMgfUy7Mz3tJpfU6hpg6ioTpdOd3LRXvL5+oCaOlZlWgeSyTgtJyaQAUztisN9lXD6v5x09+NM21Jf3MAyy1m9Xggec7p7CJ$      
 go:
 - '1.7'
 - '1.8'
